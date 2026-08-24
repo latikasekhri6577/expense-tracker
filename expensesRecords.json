@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "date_spent": "24/08/26",
+        "category": "food",
+        "amount": 250.0,
+        "description": "lunch with friends"
+    },
+    {
+        "id": 2,
+        "date_spent": "24/08/26",
+        "category": "travel",
+        "amount": 25000.0,
+        "description": "visit to hill station"
+    }
+]
